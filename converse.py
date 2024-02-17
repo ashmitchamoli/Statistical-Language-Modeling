@@ -1,4 +1,4 @@
-from include.models.NGramModel import NGramModel
+from language_modeling.models.NGramModel import NGramModel
 from time import sleep
 
 N = input("Enter N: ")

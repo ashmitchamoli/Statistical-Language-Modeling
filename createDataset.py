@@ -3,7 +3,7 @@ import token
 import tokenize
 from sklearn.model_selection import train_test_split
 
-from include.preprocessing.Tokenizer import Tokenizer
+from language_modeling.preprocessing.Tokenizer import Tokenizer
 
 dataPath = "data/books"
 

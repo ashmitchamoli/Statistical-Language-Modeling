@@ -31,7 +31,7 @@ python generator.py i corpus.txt 3
 ```
 
 # Source Code
-The source code for tokenization and preprocessing can be found in the `include/preprocessing` folder. `Tokenizer.py` contains the class for tokenization. The file `include/models/NGramModel.py` contains the class for nGram language model.
+The source code for tokenization and preprocessing can be found in the `language_modeling/preprocessing` folder. `Tokenizer.py` contains the class for tokenization. The file `language_modeling/models/NGramModel.py` contains the class for nGram language model.
 
 # Experimentation
 ## Generation

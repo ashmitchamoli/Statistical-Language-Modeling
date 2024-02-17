@@ -1,4 +1,4 @@
-from include.models.NGramModel import NGramModel
+from language_modeling.models.NGramModel import NGramModel
 import sys
 
 # commandline arguments: python language_model.py <smoothing type> <corpus path>

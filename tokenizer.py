@@ -1,4 +1,4 @@
-from include.preprocessing.Tokenizer import Tokenizer
+from language_modeling.preprocessing.Tokenizer import Tokenizer
 
 text = input("your text: ")
 
